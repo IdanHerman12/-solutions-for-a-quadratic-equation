@@ -1,7 +1,7 @@
 'use strict';
 const a = 1;
-const b = 5;
-const c = 6;  // stands for x**2 - 6*x + 9 = 0
+const b = 8;
+const c = 9;  
 let discriminant=b * b - 4 * a * c;
 let solutionA = 0;
 let solutionB = 0;
